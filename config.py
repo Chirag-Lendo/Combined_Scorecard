@@ -1,0 +1,5 @@
+DATABASE_NAME = "prod_dwh_service_tmp"
+USER_NAME = "pankaj_tmp"
+USER_PASSWORD = "KMt6sf48d25hqXFVTeUbrN_tmp"
+HOST_IP = "10.0.1.194"
+PORT = "5432"

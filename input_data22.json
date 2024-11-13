@@ -1,0 +1,79 @@
+{
+    "Current Assets": {
+        "Cash & Cash Equivalents": 53.0,
+        "Marketable Securities": 0.0,
+        "Trade Receivables - Gross": 397.0,
+        "Provision": 0.0,
+        "Unbilled Revenues": 0.0,
+        "Inventory - Gross": 0.0,
+        "Slow-Moving assets provision": 0.0,
+        "Due from shareholder(s)": 0.0,
+        "Due from Related Parties": 783.0,
+        "Other Current Assets": 154.0
+    },
+    "Non Current Assets": {
+        "Lands & properties": 0,
+        "Equipment & machinaries": 0,
+        "Vehicles, Equipment, machineries": 0,
+        "Furniture and others": 0,
+        "Right of use assets": 0,
+        "Depreciation": 0,
+        "Capital work in progress": 0,
+        "Investment in Subsidiaries": 0,
+        "Other Investments": 0,
+        "Intangible Assets": 0,
+        "Other Non-Current Assets": 0,
+        "Total Fixed Assets": 3.0
+    },
+    "Current Liabilities": {
+        "Short Term Loans - Banks": 0.0,
+        "Short Term Loans - NBFI": 0.0,
+        "CPTL (current portion of Term loans) - Banks": 0.0,
+        "CPTL (current portion of Term loans) - NBFI": 0.0,
+        "CPTL - Capital Lease Obligations": 0.0,
+        "Trade Payables": 86.0,
+        "Advances from Customers": 0.0,
+        "Due to shareholder(s) - Not subordinated": 0.0,
+        "Due to related parties": 0.0,
+        "Zakat Provision": 2.0,
+        "VAT": 0.0,
+        "Dividends payable to shareholders": 0.0,
+        "Accrued expense/Unearned Revenues": 0.0,
+        "Other Current Liabilities": 854.0
+    },
+    "Non Current Liabilities": {
+        "TL - Banks": 0.0,
+        "TL - NBFI": 0.0,
+        "Capital Lease Obligations": 0.0,
+        "Bonds & other Term lending": 0.0,
+        "Due to shareholder(s) - Not subordinated": 0.0,
+        "Due to Related Parties": 0.0,
+        "Employees Benefits": 53.0,
+        "Other Non-Current Liabilities": 0.0
+    },
+    "Shareholders Equity": {
+        "Paid in Capital": 15.0,
+        "Additional Capital": 0.0,
+        "Reserves": 2.0,
+        "Subordinated Debt": 359.0,
+        "Current Year Profit (Loss)": 0.0,
+        "Retained Profit (Loss)": 18.0,
+        "Non-controlling interest": 0.0,
+        "Unrealized Gains": 0.0
+    },
+    "PnL + Cash Flow": {
+        "Revenues": 661.0,
+        "COGS": 0.0,
+        "Depreciation": 0.0,
+        "G&A": 0.0,
+        "Selling Expense": 0.0,
+        "Depreciation/Amortizatoin": 0.0,
+        "Operating Expenses": 0.0,
+        "Other Operating Income": 0.0,
+        "Finance Cost (interest)": 0.0,
+        "Income (loss) from Investments": 0.0,
+        "Taxes/Zakat": 0.0,
+        "Net Cash from Operating Activities": 0.0,
+        "Total loans as per SIMAH": 0.0
+    }
+}
